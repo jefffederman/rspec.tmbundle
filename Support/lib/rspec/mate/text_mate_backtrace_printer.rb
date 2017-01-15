@@ -264,7 +264,7 @@ EOF
 .rspec-report h1 {
   margin: 0px 10px 0px 10px;
   padding: 10px;
-  font-family: "Lucida Grande", Helvetica, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
   font-size: 1.8em;
   position: absolute;
 }
@@ -276,13 +276,13 @@ EOF
 #display-filters {
   float:left;
   padding: 28px 0 0 40%;
-  font-family: "Lucida Grande", Helvetica, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
 }
 
 #summary {
   float:right;
   padding: 5px 10px;
-  font-family: "Lucida Grande", Helvetica, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
   text-align: right;
 }
 
@@ -301,7 +301,7 @@ EOF
 
 dl {
   margin: 0; padding: 0 0 5px;
-  font: normal 11px "Lucida Grande", Helvetica, sans-serif;
+  font: normal 11px "Helvetica Neue", Helvetica, sans-serif;
 }
 
 dt {
@@ -381,7 +381,7 @@ pre {
 .messages {
   padding: 10px;
   color: #666;
-  font: normal 11px "Lucida Grande", Helvetica, sans-serif;
+  font: normal 11px "Helvetica Neue", Helvetica, sans-serif;
 }
 
 .stderr {
